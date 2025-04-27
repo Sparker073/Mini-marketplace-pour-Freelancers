@@ -36,6 +36,7 @@ Chaque freelance ou artisan peut avoir sa propre **page de profil** détaillée.
   
 ## 🎬 Watch the Demo
 👉 [Click here to watch the full demo](https://youtu.be/sLoWUMagdmQ)
+
 [![Watch the Demo](https://img.youtube.com/vi/sLoWUMagdmQ/maxresdefault.jpg)](https://youtu.be/sLoWUMagdmQ)
 
 
