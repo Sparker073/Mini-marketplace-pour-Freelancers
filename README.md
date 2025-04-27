@@ -3,25 +3,38 @@
 Bienvenue sur **YohaTech** !  
 L'objectif de ce projet est de créer une petite plateforme permettant à des freelances ou artisans locaux de proposer et publier leurs services (design, réparation, cuisine, etc.).
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- 🚀 **Publication de service** : Permet aux utilisateurs d’ajouter un service avec un **titre**, une **description** et un **contact**.
-- 🎨 **Affichage des services** : Les services sont présentés sous forme de **liste** ou de **cartes** modernes et responsive.
-- 🔍 **Recherche par mot-clé** : Système de recherche rapide pour trouver facilement un service.
+-  **Publication de service** : Permet aux utilisateurs d’ajouter un service avec un **titre**, une **description** et un **contact**.
+-  **Affichage des services** : Les services sont présentés sous forme de **liste** ou de **cartes** modernes et responsive.
+-  **Recherche par mot-clé** : Système de recherche rapide pour trouver facilement un service.
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 
 - **HTML5**
-- **CSS3** (avec TailwindCSS ou autre framework si besoin)
-- **JavaScript** (Vanilla JS ou framework léger comme **Vite + React**)
+- **CSS3** (avec TailwindCSS )
+- **JavaScript** (framework léger comme **Vite + React**)
 
-## 📄 Pages principales
+##  Pages principales
 
 - **Page d'ajout de service** : Formulaire avec validation des champs (titre, description, contact).
 - **Page de liste des services** : Vue utilisateur avec les services ajoutés.
 - **Fonction recherche** : Rechercher des services par mot-clé.
+- 
+##  Page de Profil Utilisateur
 
-## 🚀 Installation du Projet
+Chaque freelance ou artisan peut avoir sa propre **page de profil** détaillée.
+
+### Informations Affichées
+
+- **Photo de profil** (optionnelle ou avatar par défaut)
+- **Nom complet**
+- **Profession / Métier** (ex: Développeur Web, Designer Graphique, Cuisinier, etc.)
+- **Description personnelle** (bio courte pour se présenter)
+- **Services proposés** (liste de ses services disponibles)
+- **Contact rapide** (Email, Numéro de téléphone ou bouton de message)
+
+##  Installation du Projet
 
 Si ton projet utilise **React + Vite** par exemple :
 
