@@ -20,7 +20,7 @@ L'objectif de ce projet est de créer une petite plateforme permettant à des fr
 - **Page d'ajout de service** : Formulaire avec validation des champs (titre, description, contact).
 - **Page de liste des services** : Vue utilisateur avec les services ajoutés.
 - **Fonction recherche** : Rechercher des services par mot-clé.
-- 
+  
 ##  Page de Profil Utilisateur
 
 Chaque freelance ou artisan peut avoir sa propre **page de profil** détaillée.
