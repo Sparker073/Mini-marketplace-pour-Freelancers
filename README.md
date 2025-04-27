@@ -33,6 +33,10 @@ Chaque freelance ou artisan peut avoir sa propre **page de profil** détaillée.
 - **Description personnelle** (bio courte pour se présenter)
 - **Services proposés** (liste de ses services disponibles)
 - **Contact rapide** (Email, Numéro de téléphone ou bouton de message)
+  
+### 🎥 Demo Video
+
+[Watch the Demo here](https://youtu.be/sLoWUMagdmQ)
 
 ##  Installation du Projet
 
@@ -50,3 +54,5 @@ npm install
 
 # 4. Lancer le serveur de développement
 npm run dev
+
+
