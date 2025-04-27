@@ -34,9 +34,10 @@ Chaque freelance ou artisan peut avoir sa propre **page de profil** détaillée.
 - **Services proposés** (liste de ses services disponibles)
 - **Contact rapide** (Email, Numéro de téléphone ou bouton de message)
   
-### 🎥 Demo Video
+## 🎬 Watch the Demo
 
-[Watch the Demo here](https://youtu.be/sLoWUMagdmQ)
+[![Watch the Demo](https://img.youtube.com/vi/sLoWUMagdmQ/maxresdefault.jpg)](https://youtu.be/sLoWUMagdmQ)
+
 
 ##  Installation du Projet
 
